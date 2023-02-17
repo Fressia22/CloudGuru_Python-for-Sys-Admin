@@ -1,0 +1,10 @@
+Playground Sandboxes:
+CLOUD SERVER
+Distribution=CentOS 7
+Tags=2ndserver
+Expires=2Mar23
+Units=3
+
+User.Name=cloud_user
+Passwd=Flapakipi08
+Public.Hostname=8e0a0d08ea1c.mylabserver.com
